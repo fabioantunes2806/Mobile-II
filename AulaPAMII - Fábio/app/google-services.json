@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152084888537",
+    "project_id": "modulo3ds-1c2d8",
+    "storage_bucket": "modulo3ds-1c2d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152084888537:android:27c3572777602cc23d37c8",
+        "android_client_info": {
+          "package_name": "com.example.aulapamii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAuPrdC749U9nWWdIit-nThK_urYslxZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152084888537:android:2818b5d339c5b18a3d37c8",
+        "android_client_info": {
+          "package_name": "com.example.aulapamiii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAuPrdC749U9nWWdIit-nThK_urYslxZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
